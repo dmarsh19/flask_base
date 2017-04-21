@@ -1,0 +1,7 @@
+*.pyc
+env/*
+archive/*
+docs/*
+.vscode/*
+*.lnk
+activate
